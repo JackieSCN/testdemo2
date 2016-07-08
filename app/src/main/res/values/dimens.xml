@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="group_item_height">100dp</dimen>
+    <dimen name="group_item_divider">1dp</dimen>
+    <dimen name="group_icon_size">39dp</dimen>
+    <dimen name="group_margin">18dp</dimen>
+    <dimen name="group_name_margin">18dp</dimen>
+    <dimen name="group_item_text_size1">16sp</dimen>
+    <dimen name="group_item_text_size2">13sp</dimen>
+    <dimen name="group_invite_item_text_size">16sp</dimen>
+    <dimen name="group_invite_btn_text_size">18sp</dimen>
+    <dimen name="group_fenlei_text_size">14sp</dimen>
+
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+</resources>

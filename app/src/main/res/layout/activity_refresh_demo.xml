@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/group_member_bg">
+
+    <test.example.com.testrecycleview.widget.WanRecycleView
+        android:id="@+id/group_member_recycle_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:scrollbars="none" />
+    <!--<android.support.v7.widget.RecyclerView
+        android:id="@+id/group_member_recycle_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:scrollbars="none" />-->
+
+</RelativeLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestRecycleView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="group_info">动态</string>
+    <string name="group_member">成员</string>
+    <string name="group_exit">退出小组模式</string>
+    <string name="group_sure_to_exit">确定退出小组吗?</string>
+    <string name="group_invite">邀请加入小组</string>
+    <string name="group_myself">自己</string>
+    <string name="group_mode">小组模式</string>
+    <string name="input_group_name">请输入小组名</string>
+</resources>

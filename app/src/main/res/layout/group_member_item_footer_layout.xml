@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f2f2f2"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/group_margin"
+    android:paddingRight="@dimen/group_margin"
+    android:paddingTop="10dp">
+
+    <Button
+        android:id="@+id/group_exit"
+        android:layout_height="46dp"
+        android:layout_width="match_parent"
+        android:text="@string/group_exit"
+        android:textColor="@color/group_text_color_black"
+        android:textSize="@dimen/group_item_text_size1"
+        android:gravity="center"
+        android:background="@drawable/layout_click_effect" />
+</LinearLayout>

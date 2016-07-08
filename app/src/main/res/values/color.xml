@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="group_text_color_gray">#9a9a9a</color>
+    <color name="group_text_color_black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="group_member_bg">#f2f2f2</color>
+    <color name="invite_name_color">#787878</color>
+    <color name="group_invite_btn_bg">#1f1c25</color>
+    <color name="group_invite_btn_click">#fec00f</color>
+    <color name="group_invite_btn_unclick">#fcd56f</color>
+    <color name="group_invite_text_click">#ffffff</color>
+    <color name="group_invite_text_unclick">#26232e</color>
+    <color name="group_myself_text_color">#a0a0a0</color>
+</resources>

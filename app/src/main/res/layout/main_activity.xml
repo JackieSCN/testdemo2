@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#ffffff"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/demo1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="布局切换"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/demo2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="拖动"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/demo3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="刷新"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        />
+
+</LinearLayout>
